@@ -62,22 +62,6 @@
 - Python 3.12
 - PyTest
 
-### Встановлення
-1. Клонуйте репозиторій:
-```bash
-    git clone <URL>
-    cd car-dealership
-```
-2. Встановіть необхідні бібліотеки:
-```bash
-    pip install -r requirements.txt
-```
-
-### Запуск програми
-```bash
-python main.py
-```
-
 ### Приклади використання
 **Додавання нового автомобіля:**
 ```python
