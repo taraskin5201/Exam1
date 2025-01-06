@@ -62,20 +62,6 @@
 - Python 3.12
 - PyTest
 
-### Приклади використання
-**Додавання нового автомобіля:**
-```python
-from dealership import CarDealership
-
-dealership = CarDealership()
-dealership.add_car("Tesla Model S", "ElectricCar", 2024, 60000)
-```
-
-**Реєстрація продажу:**
-```python
-sale = dealership.register_sale(car_id=1, employee_id=2, customer_name="John Doe")
-```
-
 ### Тестування
 Проєкт покритий тестами, використовуючи PyTest.
 
